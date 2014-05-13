@@ -1,0 +1,4 @@
+TODO:
+
+get pima indians to work with linear svm with cost = 1.
+verify with zhiguo area under the curve performance.

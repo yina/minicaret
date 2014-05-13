@@ -1,0 +1,10 @@
+Package: minicaret
+Type: Package
+Title: Functions that add additional features to the caret machine learning package. 
+Version: 0.1
+Date: 2013-10-09
+Author: Yin Aphinyanaphongs <yin.a@nyumc.org>
+Maintainer: Yin Aphinyanaphongs <yin.a@nyumc.org>
+Description: More about what it does (maybe more than one line)
+License: Proprietary
+Imports: caret

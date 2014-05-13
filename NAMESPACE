@@ -1,0 +1,10 @@
+exportPattern("^[[:alpha:]]+")
+
+# import 
+importFrom("caret", createFolds)
+importFrom("caret", train)
+importFrom("caret", trainControl)
+importFrom("caret", twoClassSummary)
+
+importFrom("e1071", read.matrix.csr)
+import("SparseM")
